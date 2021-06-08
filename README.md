@@ -67,3 +67,6 @@ c.retrieve(
     'download.nc')
 ```
 3. How to use API instructions here: https://cds.climate.copernicus.eu/api-how-to 
+4. Standard variable name: 
+    4.1: Total_precipitation: atmosphere_water__precipitation_mass_flux
+    4.2: Temperature_2m: land_surface_air__temperature
