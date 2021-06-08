@@ -16,7 +16,7 @@ The code above can be modified using the following link to obtain the data: http
 
 ### 6-hourly
 
-Download the data from this link: https://data.chc.ucsb.edu/products/CHIRPS-2.0/africa_6-hourly/p1_bin/. Needs to be updated as more data becomes available.
+Need to get the link. 
 
 ### monthly
 
