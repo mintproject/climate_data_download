@@ -20,6 +20,8 @@ The code above can be modified using the following link to obtain the data: http
 
 Need to get the link. 
 
+[NOT NEEDED FOR NOW]
+
 ### monthly
 
 All the monthly data is available in one file. https://data.chc.ucsb.edu/products/CHIRPS-2.0/global_monthly/netcdf/. Needs to be re-downloaded as it gets updated. See notebook in this repository to lift metadata directly.
