@@ -8,6 +8,8 @@ Guide on downloading the necessary climate data.
 
 See this repository: https://github.com/mintproject/MINT-Data-Sync/blob/master/sync_gldas.py
 
+[DONE]
+
 ### GLDAS monthly
 
 The code above can be modified using the following link to obtain the data: https://hydro1.gesdisc.eosdis.nasa.gov/data/GLDAS/GLDAS_NOAH025_M.2.1/
